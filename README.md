@@ -9,4 +9,26 @@ Follow on Twitter - Click [girlswhocode](https://twitter.com/nimishadebug)
 
 🚀  Installation
 <hr>
+Clone the Repo
 
+```$ git clone https://github.com/nimishadebug/Twitter-Bot-Javascript.git```
+
+Install Puppeteer
+
+```npm i puppeteer```
+
+💡 Working
+
+Sign up for a Twitter Account
+- Create a separate Twitter account for your bot.
+- Enter the Hashtag you want to work with and it follow people who has used that hashtag.
+
+🔑 Deployment
+Sign up for a free account in Heroku
+Click on New -> Create new app
+Enter the app-name in lower case and select your nearest region.
+Choose Heroku CLI for deployment. Follow the steps given in Deploy tab.
+
+❤️ Contributor
+<hr>
+Made by Nimishadebug
